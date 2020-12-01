@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
